@@ -37,6 +37,7 @@ Information Manager
   "title": "balabalabala",
   "subtitle": "balabalabala",
   "content": "rua",
-  "remark": "ruarua"
+  "remark": "ruarua",
+  "level": 1
 }
 ```
