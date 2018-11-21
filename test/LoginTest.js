@@ -35,6 +35,7 @@ describe('loginTest', function () {
         } catch (err) {
           catch_err = err;
         }
+        console.log(result);
         expect(result).to.be.equal("OK");
         expect(catch_err).to.be.an("undefined");
     });

@@ -16,6 +16,10 @@
     "url": "git+https://github.com/hqummp/InfoManager.git"
   },
   "author": "evi0s",
+  "contributors": [
+    "evi0s",
+    "funkdog"
+  ],
   "license": "MIT",
   "dependencies": {
     "encryptor": "git+https://github.com/kqummp/Encryptor.git",
